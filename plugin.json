@@ -1,0 +1,7 @@
+{
+  "name":"test-plugin",
+  "version": "1.0.0",
+  "icon": "fas fa-terminal fa-xs",
+  "main": "",
+  "enabled": true
+}
